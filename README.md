@@ -1,4 +1,4 @@
 # OCknowledge
 不定时小总结OC技术
 效果图
-![image](https://github.com/FreeSnow520/OCknowledge/master/图片1.png)
+![image](https://github.com/FreeSnow520/OCknowledge/master/图片1.gif)
